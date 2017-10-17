@@ -1,0 +1,19 @@
+{
+  "name": "SFDX",
+  "version": "1.0.0",
+  "description": "## Dev, Build and Test",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "sync-exec": "^0.6.2"
+  },
+  "devDependencies": {
+    "yargs": "^9.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
